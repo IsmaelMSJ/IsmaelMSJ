@@ -18,5 +18,5 @@ Aprendizado contínuo: Estou sempre buscando novos conhecimentos e desafios para
 Resolução de problemas: Tenho uma mentalidade analítica e proativa diante de obstáculos.
 
 ## 🚀 Objetivo
-Meu objetivo é me tornar um(a) desenvolvedor(a) completo(a), com base sólida em front-end e expandir meus conhecimentos para outras áreas da tecnologia. Estou sempre disponível para aprender, colaborar em projetos e fazer parte de equipes que valorizem crescimento e impacto.
+Meu objetivo é me tornar um desenvolvedor completo, com base sólida em front-end e expandir meus conhecimentos para outras áreas da tecnologia. Estou sempre disponível para aprender, colaborar em projetos e fazer parte de equipes que valorizem crescimento e impacto.
 
