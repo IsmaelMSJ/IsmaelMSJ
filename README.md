@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+Sou uma pessoa em constante evolução, apaixonada por tecnologia, aprendizado e construção de soluções que fazem a diferença. Atualmente, estou focado(a) no desenvolvimento front-end, com domínio em HTML, CSS e JavaScript, e aprimorando continuamente minhas habilidades técnicas e projetos práticos.
 
-<!--
-**IsmaelMSJ/IsmaelMSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Hard Skills
+HTML5: Estruturação semântica e acessível de páginas web.
 
-Here are some ideas to get you started:
+CSS3: Estilização moderna com foco em responsividade e usabilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript: Lógica de programação, manipulação do DOM e interatividade de interfaces.
+
+## 💡 Soft Skills
+Comunicação clara e empática: Gosto de compartilhar ideias e colaborar em equipe.
+
+Disciplina e organização: Gerencio bem meu tempo e metas, mantendo o foco em entregas de qualidade.
+
+Aprendizado contínuo: Estou sempre buscando novos conhecimentos e desafios para crescer.
+
+Resolução de problemas: Tenho uma mentalidade analítica e proativa diante de obstáculos.
+
+## 🚀 Objetivo
+Meu objetivo é me tornar um(a) desenvolvedor(a) completo(a), com base sólida em front-end e expandir meus conhecimentos para outras áreas da tecnologia. Estou sempre disponível para aprender, colaborar em projetos e fazer parte de equipes que valorizem crescimento e impacto.
+
